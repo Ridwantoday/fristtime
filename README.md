@@ -1,0 +1,2 @@
+# fristtime
+membuat apa aja
