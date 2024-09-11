@@ -1,2 +1,4 @@
 # fristtime
-membuat apa aja
+mengelolah folder
+mengelolah web
+
